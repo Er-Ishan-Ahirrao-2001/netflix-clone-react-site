@@ -6,3 +6,8 @@
 <li>Used of IMDB Movies API and Youtube API</li>
 <li>Basics Login Page</li>
 <li>Create Multiple Pages using react router dom</li>
+
+#
+<p>Home Screen represent the basic introduction.</p>
+
+![Screenshot 1](images/image1.jpg)
